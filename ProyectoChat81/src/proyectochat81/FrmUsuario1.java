@@ -18,7 +18,7 @@ public class FrmUsuario1 extends javax.swing.JFrame implements Observer  {
      */
     public FrmUsuario1() {
         initComponents();
-        this.setTitle("Usuario Principal");
+        this.setTitle("Usuario Principal 1");
         //Atento al uso del boton enviar
         this.getRootPane().setDefaultButton(jBtEnviar1);
         //Define un objeto de la clase servidor y se abre un puerto para conexion.
